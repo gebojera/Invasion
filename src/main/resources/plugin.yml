@@ -1,0 +1,18 @@
+name: Invasion
+version: 0.2a
+main: sylaires.invasion.main.Main
+description: A minigame where you fight waves of enemies and craft new items to survive longer
+
+commands:
+    setloc:
+      decription: Set a location
+    game:
+      decription: Start or stop the game
+    spawn:
+      description: spawn a custom entity
+    update:
+      description: provides a description of the most recent update
+    essence:
+      description: cheater
+    peek:
+      description: an abuse of power

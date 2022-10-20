@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a853090f-eb13-48e9-918b-bfb365f0ed45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/attack/IMagicAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/attack/LichAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/command/BrowseCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/command/EssenceCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/command/GameCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/command/SetlocCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/command/SpawnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/command/UpdateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/crucible/Crucible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/crucible/CrucibleRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/crucible/FacetedDiamondRecipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/crucible/ICrucibleRecipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/BindingTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantingProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentAntidote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentArchery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentArmorDurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentAssassinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentBastion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentBeheading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentBloodPact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentBrutalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentCavedweller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentChallenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentCrusadersSmite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentDivineIntervention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentEnder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentErupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentFireProt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentGodforged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentGodhood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentGrapple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentHearts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentHoming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentInstinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentLaunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentMassacre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentMedic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentMissle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentNether.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentNetheric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentObliterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentParry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentPhoenix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentReflectivePlate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentRegen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentRepulsion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentRobin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentSanguinare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentScavenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentShadowform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentSharpness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentShatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentSmite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentSniper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentStun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentSturdyMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentSwordDurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentSwordFiery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentSwordHeavy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentSwordMarine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentTerrabeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentThorns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentTrueEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentTrueShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentUnassailable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentVampiric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentWealthy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentWildAndFree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enchanting/EnchantmentWither.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/CustomTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyAttackEffects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyCragRam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyCragRamCharge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyDruid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyDruidCurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyForestSpider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyGhostlyMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyGhostlyMinerInvis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyLich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyLostMiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyPaladin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemySilverfish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyWhiteWalker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyWhiteWalkerAura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EnemyWhiteWalkerTrueDmg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/EntityTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/IBasicEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/PathfinderGoalFollowTargetAtRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/PathfinderGoalMagicAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/PathfinderGoalMid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/PathfinderGoalStareAtTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/enemy/SpawnRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/item/IBasicItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/item/ItemFacetedDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/item/ItemRoughDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/item/JockeysBow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/listeners/CraftingStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/listeners/MiscListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/listeners/MobDrops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/listeners/MobTouchDamage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/listeners/NexusListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/listeners/PlayerDeath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/main/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/main/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/main/Locations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/main/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/main/PlayerProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/main/Scoreboards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/main/TheNexus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/main/Wave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/util/EnemyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/util/Hologram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/util/ItemStackUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/util/ParticleUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/util/PlayerJumpEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/invasion/util/TitleUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GNNo16ln8Ru3Dk3YEn3M6VaM7Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/keleb/IdeaProjects/CTF/Invasion/src/main/resources",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\keleb\IdeaProjects\CTF\Invasion\src\main\resources" />
+      <recent name="C:\Users\keleb\IdeaProjects\CTF\Invasion\src" />
+      <recent name="C:\Users\keleb\IdeaProjects\CTF\Invasion\src\main\java\sylaires" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keleb\IdeaProjects\CTF\Invasion\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a853090f-eb13-48e9-918b-bfb365f0ed45" name="Changes" comment="" />
+      <created>1666225252985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666225252985</updated>
+      <workItem from="1666225254511" duration="3046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
